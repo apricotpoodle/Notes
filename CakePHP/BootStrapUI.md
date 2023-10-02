@@ -15,3 +15,7 @@
     - Needed if only need to use that just after a new install or a renew install (dockerization !)
 - [Youtube video : CakePHP 4 - Bootstrap 5 with the FriendsOfCake/bootstrap-ui Plugin](https://www.youtube.com/watch?v=pbPp4Z1DZyw)
 - [Youtube video : CakePHP 4 - Extending Helpers in the FriendsOfCake/BootstrapUI Plugin](https://www.youtube.com/watch?v=H1bxU0o9ojs)
+
+## Icons List
+
+[filter](https://icons.getbootstrap.com/#icons)
