@@ -1,5 +1,12 @@
 # Install BoorStrapUI in CakePHP
 
+## Requirements
+
+- CakePHP 5.x
+- Bootstrap 5.x
+- npm 6.x
+- Popper.js 2.x
+- Bootstrap Icons 1.5.x
 
 ## Références
 
