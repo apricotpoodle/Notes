@@ -1,3 +1,3 @@
 # Notes Concernant Cake PHP
 
-## [BootStrapUi](BotStrapUI.md)
+## [BootStrapUi](BootStrapUI.md)
